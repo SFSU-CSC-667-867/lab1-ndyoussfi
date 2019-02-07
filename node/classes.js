@@ -13,6 +13,7 @@ class Something {
 const s = new Something('tim');
 s.hello();
 
+
 // for practice
 
 // Create a subclass
